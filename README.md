@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name's Ezekiel known as zekidev 👨🏽‍💻👨🏽‍💻
 
 <!--
 **Zequy40/Zequy40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
