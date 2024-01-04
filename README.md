@@ -25,7 +25,7 @@ Aquí os dejo algunas tecnolgía que he ido aprendiendo a lo largo de mi trayect
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=101010)
 ---
 ### Frameworks
-![react](https://img.shields.io/badge/react-blue?logo=react)
+![react](https://img.shields.io/badge/react-blue?logo=react&logoColor=%2300D8FF&labelColor=101010)
 ![astro](https://img.shields.io/badge/Astro-black?logo=Astro&logoColor=white&labelColor=101010)
 ![next](https://img.shields.io/badge/NextJs-black?logoColor=black&label=N&labelColor=101010)
 ![svelte](https://img.shields.io/badge/svelte-F53C1B?logo=svelte&logoColor=%23F53C1B&labelColor=101010)
