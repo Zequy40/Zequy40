@@ -7,12 +7,12 @@ Soy programador web, no nativo. Mi verdadera profesión es Electrotecnico, pero 
 Comencé aprendiendo PHP, pero mis debuts fueron torpes y sin orientación, pero descubrí algo que me gustaba y no iba a echar de menos mi oficio.
 A partir de 2015 decidí de descubrir frontend, y comencé mi aventura en el desarrollo nativo de html, css y javascript.
 <br>
-Poco a poco me fui formando hasta el dia de hoy, haciendo proyectos personales, proyecto para amigos y en 2018 empecé a trabajr como desarrollador web para una empresa de la localidad que abría un departamento de desarrolo de web, a media jornada.<br>
+Poco a poco me fui formando hasta el dia de hoy, haciendo proyectos personales, proyectos para amigos y familia (los que realmente salen benficiados 😜) y en 2018 empecé a trabajar como desarrollador web para una empresa de la localidad que abría un departamento de desarrolo de web, a media jornada.<br>
 Trabajo de freelance fuera aparte, porque me gusta tener cierta libertad, y con proyectos que llevo trabajando cierto tiempo ya.
 
 <br><br>_Y solo recientemente gracias **Mouredev** que empiezo a usar GITHUB._
 ## Tecnología aprendidas
-Aquí os dejo algunas tecnolgía que he ido aprendiendo a lo largo de mi trayectoria, no significa que las domine todas, pero tengo las bases y nociones para saber por menos como van.<br><br>
+Aquí os dejo algunas tecnología que he ido aprendiendo a lo largo de mi trayectoria, no significa que las domine todas, pero tengo las bases y nociones para saber por menos como van.<br><br>
 ### Frontend | Nativo
 ![HTML5](https://img.shields.io/badge/html%205-transparent?logo=html5&labelColor=black&color=%23E44D26) ![CSS4](https://img.shields.io/badge/css%204-transparent?logo=css3&logoColor=%230277BD&labelColor=black&color=%230277BD)
 ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&labelColor=101010
@@ -36,8 +36,8 @@ Aquí os dejo algunas tecnolgía que he ido aprendiendo a lo largo de mi trayect
 <br>
 #### ...y algunas más
 
-Pero que no voy a listar porque pienso que con las que he puesto y que son las que mas me desenvuelvo y uso, es suficiente.
-Solo queda que echéis un vistazo a lso repositorios que intento de subir poco a poco.
+Pero que no voy a listar porque pienso que con las que he puesto y que son las que más me desenvuelvo y uso, es suficiente.
+Solo queda que echéis un vistazo a los repositorios que intento de subir poco a poco.
 <br><br>
 Well and without further ado, see you soon, good programming to everyone!!! 👋🏽👋🏽👋🏽
 <!--
