@@ -33,12 +33,12 @@ Aquí os dejo algunas tecnolgía que he ido aprendiendo a lo largo de mi trayect
 ---
 ### Tecnología en proceso de aprentizage para especializarse
 ![py](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&labelColor=101010)
-
 <br>
-#### ... y algunas más
+### ...y algunas más
+
 Pero que no voy a listar porque pienso que con las que he puesto y que son las que mas me desenvuelvo y uso, es suficiente.
 Solo queda que echéis un vistazo a lso repositorios que intento de subir poco a poco.
-<br>
+<br><br>
 Well and without further ado, see you soon, good programming to everyone!!! 👋🏽👋🏽👋🏽
 <!--
 **Zequy40/Zequy40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
