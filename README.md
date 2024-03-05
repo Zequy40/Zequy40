@@ -3,7 +3,7 @@
  
 ## Known as zekidev 👨🏽‍💻 <img src="https://fomatec.site/zekidev/zd.webp" alt="Descripción" width="25"/> 👨🏽‍💻
 
-![https://github.com/Zequy40](https://fomatec.site/zekidev/zd.webp)
+![https://github.com/Zequy40](https://github.com/Zequy40/Zequy40/blob/main/portada_ZekiDev.webp)
 
 <br>
 Soy programador web, no nativo. Mi verdadera profesión es Electrotecnico, pero debido a cambio en mi vida por el 2010 tuve que orientarme y abandonar mi oficio tan querido.<br>
