@@ -1,7 +1,7 @@
 ![https://github.com/Zequy40](https://github.com/Zequy40/Zequy40/blob/main/portada_ZekiDev.webp)
 # ![https://github.com/Zequy40](https://avatars.githubusercontent.com/u/47107701?s=96&v=4) Hi, my name's Ezekiel 
  
-## Known as zekidev 👨🏽‍💻 <img src="https://fomatec.site/zekidev/zd.webp" alt="Descripción" width="25"/> 👨🏽‍💻
+## Known as zekidev 👨🏽‍💻 ![https://github.com/Zequy40)](https://github.com/Zequy40/Zequy40/blob/main/avatar.png) 👨🏽‍💻
 
 
 
