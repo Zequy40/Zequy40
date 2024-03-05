@@ -3,6 +3,8 @@
  
 ## Known as zekidev 👨🏽‍💻 <img src="https://fomatec.site/zekidev/zd.webp" alt="Descripción" width="25"/> 👨🏽‍💻
 
+![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+
 <br>
 Soy programador web, no nativo. Mi verdadera profesión es Electrotecnico, pero debido a cambio en mi vida por el 2010 tuve que orientarme y abandonar mi oficio tan querido.<br>
 Comencé aprendiendo PHP, pero mis debuts fueron torpes y sin orientación, pero descubrí algo que me gustaba y no iba a echar de menos mi oficio.
