@@ -7,7 +7,7 @@ Soy programador web, no nativo. Mi verdadera profesión es Electrotecnico, pero 
 Comencé aprendiendo PHP, pero mis debuts fueron torpes y sin orientación, pero descubrí algo que me gustaba y no iba a echar de menos mi oficio.
 A partir de 2015 decidí de descubrir frontend, y comencé mi aventura en el desarrollo nativo de html, css y javascript.
 <br>
-Poco a poco me fui formando hasta el dia de hoy, haciendo proyectos personales, proyectos para amigos y familia (los que realmente salen benficiados 😜) y en 2018 empecé a trabajar como desarrollador web para una empresa de la localidad que abría un departamento de desarrolo de web, a media jornada.<br>
+Poco a poco me fui formando hasta el dia de hoy, haciendo proyectos personales, proyectos para amigos y familia (los que realmente salen beneficiados 😜) y en 2018 empecé a trabajar como desarrollador web para una empresa de la localidad que abría un departamento de desarrolo de web, a media jornada.<br>
 Trabajo de freelance fuera aparte, porque me gusta tener cierta libertad, y con proyectos que llevo trabajando cierto tiempo ya.
 
 <br><br>_Y solo recientemente gracias **Mouredev** que empiezo a usar GITHUB._
