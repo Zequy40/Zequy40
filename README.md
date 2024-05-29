@@ -14,7 +14,7 @@ Poco a poco me fui formando hasta el dia de hoy, haciendo proyectos personales, 
 Trabajo de freelance fuera aparte, porque me gusta tener cierta libertad, y con proyectos que llevo trabajando cierto tiempo ya.
 
 <br><br>_Y solo recientemente gracias **Mouredev** que empiezo a usar GITHUB._
-<br><br>_Agradecer a algunos de los creadores de contenido que me ayudaron en mi aventura:_<br>JeanCarlos Molina(J&G proyectos web)<br>*Eduardo Fierro*<br>*MoureDev*<br>*Fazt*<br>*Midudev*<br>*Carlos Azaustre*<br> y un mención especial para mi referencia en css *ManzDev*.
+<br><br>_Agradecer a algunos de los creadores de contenido que me ayudaron en mi aventura:_<ul><li>**JeanCarlos Molina(J&G proyectos web)**</li><li>**Eduardo Fierro**</li><li>**MoureDev**</li><li>**Fazt**</li><li>**Midudev**</li><li>**Carlos Azaustre**</li><li> y una mención especial para mi referencia en css **ManzDev**.</li>
 ## Tecnología aprendidas
 Aquí os dejo algunas tecnología que he ido aprendiendo a lo largo de mi trayectoria, no significa que las domine todas, pero tengo las bases y nociones para saber por menos como van.<br><br>
 ### Frontend | Nativo
